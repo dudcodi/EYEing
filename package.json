@@ -9,10 +9,37 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo-google-fonts/noto-sans-kr": "^0.2.3",
+    "@mediapipe/pose": "^0.5.1675469404",
+    "@react-native-async-storage/async-storage": "^1.18.2",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs": "^4.7.0",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
     "expo": "~48.0.18",
+    "expo-app-loading": "^2.1.1",
+    "expo-av": "~13.2.1",
+    "expo-barcode-scanner": "~12.3.2",
+    "expo-brightness": "~11.2.1",
+    "expo-camera": "~13.2.1",
+    "expo-font": "~11.1.1",
+    "expo-gl": "~12.4.0",
+    "expo-image-manipulator": "^11.1.1",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-appearance": "^0.3.4",
+    "react-native-camera": "^4.2.1",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.12.0",
+    "react-native-opencv": "^0.0.0",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-safe-area-context": "3.x",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-swiper": "^1.6.0",
+    "react-native-switch": "^1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
